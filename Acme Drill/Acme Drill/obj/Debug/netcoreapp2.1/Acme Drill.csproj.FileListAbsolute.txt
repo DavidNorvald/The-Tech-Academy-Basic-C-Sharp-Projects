@@ -1,0 +1,10 @@
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\bin\Debug\netcoreapp2.1\Acme Drill.deps.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\bin\Debug\netcoreapp2.1\Acme Drill.runtimeconfig.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\bin\Debug\netcoreapp2.1\Acme Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\bin\Debug\netcoreapp2.1\Acme Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\bin\Debug\netcoreapp2.1\Acme Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\obj\Debug\netcoreapp2.1\Acme Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\obj\Debug\netcoreapp2.1\Acme Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\obj\Debug\netcoreapp2.1\Acme Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\obj\Debug\netcoreapp2.1\Acme Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Acme Drill\obj\Debug\netcoreapp2.1\Acme Drill.pdb
