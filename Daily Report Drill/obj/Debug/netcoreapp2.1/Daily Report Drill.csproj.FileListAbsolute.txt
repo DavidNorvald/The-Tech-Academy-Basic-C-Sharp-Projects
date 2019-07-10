@@ -1,0 +1,11 @@
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\bin\Debug\netcoreapp2.1\Daily Report Drill.deps.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\bin\Debug\netcoreapp2.1\Daily Report Drill.runtimeconfig.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\bin\Debug\netcoreapp2.1\Daily Report Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\bin\Debug\netcoreapp2.1\Daily Report Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\bin\Debug\netcoreapp2.1\Daily Report Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Acme Drill\Daily Report Drill\obj\Debug\netcoreapp2.1\Daily Report Drill.csprojAssemblyReference.cache
