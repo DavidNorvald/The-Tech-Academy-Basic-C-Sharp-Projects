@@ -1,0 +1,11 @@
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.csprojAssemblyReference.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\bin\Debug\netcoreapp2.1\Math Drill.deps.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\bin\Debug\netcoreapp2.1\Math Drill.runtimeconfig.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\bin\Debug\netcoreapp2.1\Math Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\bin\Debug\netcoreapp2.1\Math Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\bin\Debug\netcoreapp2.1\Math Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Math Drill\Math Drill\obj\Debug\netcoreapp2.1\Math Drill.pdb
