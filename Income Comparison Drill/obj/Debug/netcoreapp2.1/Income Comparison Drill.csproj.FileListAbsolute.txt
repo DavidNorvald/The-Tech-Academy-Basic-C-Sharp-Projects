@@ -1,0 +1,11 @@
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\bin\Debug\netcoreapp2.1\Income Comparison Drill.deps.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\bin\Debug\netcoreapp2.1\Income Comparison Drill.runtimeconfig.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\bin\Debug\netcoreapp2.1\Income Comparison Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\bin\Debug\netcoreapp2.1\Income Comparison Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\bin\Debug\netcoreapp2.1\Income Comparison Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.csprojAssemblyReference.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Income Comparison Drill\obj\Debug\netcoreapp2.1\Income Comparison Drill.pdb
