@@ -1,0 +1,11 @@
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\bin\Debug\netcoreapp2.1\Car Insurance Drill.deps.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\bin\Debug\netcoreapp2.1\Car Insurance Drill.runtimeconfig.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\bin\Debug\netcoreapp2.1\Car Insurance Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\bin\Debug\netcoreapp2.1\Car Insurance Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\bin\Debug\netcoreapp2.1\Car Insurance Drill.pdb
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.csprojAssemblyReference.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.dll
+C:\Users\Kosmic Void\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Car Insurance Drill\obj\Debug\netcoreapp2.1\Car Insurance Drill.pdb
