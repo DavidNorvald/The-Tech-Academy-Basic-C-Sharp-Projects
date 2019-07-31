@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\bin\Debug\netcoreapp2.1\Do While drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\bin\Debug\netcoreapp2.1\Do While drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\bin\Debug\netcoreapp2.1\Do While drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\bin\Debug\netcoreapp2.1\Do While drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\bin\Debug\netcoreapp2.1\Do While drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Do While drill\obj\Debug\netcoreapp2.1\Do While drill.pdb
