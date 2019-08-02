@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\bin\Debug\netcoreapp2.1\Strings Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\bin\Debug\netcoreapp2.1\Strings Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\bin\Debug\netcoreapp2.1\Strings Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\bin\Debug\netcoreapp2.1\Strings Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\bin\Debug\netcoreapp2.1\Strings Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Strings Drill\obj\Debug\netcoreapp2.1\Strings Drill.pdb
