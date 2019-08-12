@@ -1,0 +1,11 @@
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\bin\Debug\netcoreapp2.1\Method Decimal Drill.deps.json
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\bin\Debug\netcoreapp2.1\Method Decimal Drill.runtimeconfig.json
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\bin\Debug\netcoreapp2.1\Method Decimal Drill.runtimeconfig.dev.json
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\bin\Debug\netcoreapp2.1\Method Decimal Drill.dll
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\bin\Debug\netcoreapp2.1\Method Decimal Drill.pdb
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.csprojAssemblyReference.cache
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.csproj.CoreCompileInputs.cache
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.AssemblyInfoInputs.cache
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.AssemblyInfo.cs
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.dll
+C:\Users\Kosmic Void\source\repos\Method Decimal Drill\obj\Debug\netcoreapp2.1\Method Decimal Drill.pdb
