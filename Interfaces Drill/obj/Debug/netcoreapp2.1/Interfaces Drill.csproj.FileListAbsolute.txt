@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\bin\Debug\netcoreapp2.1\Interfaces Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\bin\Debug\netcoreapp2.1\Interfaces Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\bin\Debug\netcoreapp2.1\Interfaces Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\bin\Debug\netcoreapp2.1\Interfaces Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\bin\Debug\netcoreapp2.1\Interfaces Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Interfaces Drill\obj\Debug\netcoreapp2.1\Interfaces Drill.pdb
