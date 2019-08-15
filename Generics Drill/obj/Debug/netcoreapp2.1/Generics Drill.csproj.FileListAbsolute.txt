@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\bin\Debug\netcoreapp2.1\Generics Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\bin\Debug\netcoreapp2.1\Generics Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\bin\Debug\netcoreapp2.1\Generics Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\bin\Debug\netcoreapp2.1\Generics Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\bin\Debug\netcoreapp2.1\Generics Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Generics Drill\obj\Debug\netcoreapp2.1\Generics Drill.pdb
