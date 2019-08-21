@@ -1,0 +1,10 @@
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\bin\Debug\netcoreapp2.1\Log IO drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\bin\Debug\netcoreapp2.1\Log IO drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\bin\Debug\netcoreapp2.1\Log IO drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\bin\Debug\netcoreapp2.1\Log IO drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\bin\Debug\netcoreapp2.1\Log IO drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\obj\Debug\netcoreapp2.1\Log IO drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\obj\Debug\netcoreapp2.1\Log IO drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\obj\Debug\netcoreapp2.1\Log IO drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\obj\Debug\netcoreapp2.1\Log IO drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Log IO drill\obj\Debug\netcoreapp2.1\Log IO drill.pdb
