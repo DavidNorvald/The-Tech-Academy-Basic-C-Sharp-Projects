@@ -1,0 +1,10 @@
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\bin\Debug\netcoreapp2.1\DateTime Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\bin\Debug\netcoreapp2.1\DateTime Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\bin\Debug\netcoreapp2.1\DateTime Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\bin\Debug\netcoreapp2.1\DateTime Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\bin\Debug\netcoreapp2.1\DateTime Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\obj\Debug\netcoreapp2.1\DateTime Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\obj\Debug\netcoreapp2.1\DateTime Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\obj\Debug\netcoreapp2.1\DateTime Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\obj\Debug\netcoreapp2.1\DateTime Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\DateTime Drill\obj\Debug\netcoreapp2.1\DateTime Drill.pdb
