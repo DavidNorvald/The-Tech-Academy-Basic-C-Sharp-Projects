@@ -1,0 +1,10 @@
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\bin\Debug\netcoreapp2.1\Const Var Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\bin\Debug\netcoreapp2.1\Const Var Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\bin\Debug\netcoreapp2.1\Const Var Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\bin\Debug\netcoreapp2.1\Const Var Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\bin\Debug\netcoreapp2.1\Const Var Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\obj\Debug\netcoreapp2.1\Const Var Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\obj\Debug\netcoreapp2.1\Const Var Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\obj\Debug\netcoreapp2.1\Const Var Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\obj\Debug\netcoreapp2.1\Const Var Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Const Var Drill\obj\Debug\netcoreapp2.1\Const Var Drill.pdb
