@@ -1,0 +1,11 @@
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\bin\Debug\netcoreapp2.1\Exception Handling Age Drill.deps.json
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\bin\Debug\netcoreapp2.1\Exception Handling Age Drill.runtimeconfig.json
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\bin\Debug\netcoreapp2.1\Exception Handling Age Drill.runtimeconfig.dev.json
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\bin\Debug\netcoreapp2.1\Exception Handling Age Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\bin\Debug\netcoreapp2.1\Exception Handling Age Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.AssemblyInfoInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.AssemblyInfo.cs
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Exception Handling Age Drill\obj\Debug\netcoreapp2.1\Exception Handling Age Drill.pdb
