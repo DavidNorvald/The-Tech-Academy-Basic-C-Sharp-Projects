@@ -1,0 +1,80 @@
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Car Insurance Drill.dll.config
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Car Insurance Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Car Insurance Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csc.exe
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csc.exe.config
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csc.rsp
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csi.exe
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csi.exe.config
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\csi.rsp
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.Managed.Core.targets
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.AppContext.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Collections.Immutable.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Console.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.IO.Compression.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.IO.FileSystem.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.IO.Pipes.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Reflection.Metadata.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.AccessControl.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Claims.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Security.Principal.Windows.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.ValueTuple.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Xml.XmlDocument.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Xml.XPath.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\vbc.exe
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\vbc.exe.config
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\vbc.rsp
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\VBCSCompiler.exe
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\roslyn\VBCSCompiler.exe.config
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Antlr3.Runtime.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Microsoft.Web.Infrastructure.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Newtonsoft.Json.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Helpers.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Mvc.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Optimization.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Razor.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.Deployment.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.Razor.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\WebGrease.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Helpers.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Mvc.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Optimization.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.Razor.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.Deployment.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\System.Web.WebPages.Razor.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Newtonsoft.Json.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Antlr3.Runtime.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\obj\Debug\Car Insurance Drill.csprojAssemblyReference.cache
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\obj\Debug\Car Insurance Drill.csproj.CoreCompileInputs.cache
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\obj\Debug\Car Insurance Drill.csproj.CopyComplete
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\obj\Debug\Car Insurance Drill.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\obj\Debug\Car Insurance Drill.pdb
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\EntityFramework.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\EntityFramework.SqlServer.dll
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\EntityFramework.xml
+F:\MASTER - School Programs\Visual Studio Projects\Car Insurance Drill\bin\EntityFramework.SqlServer.xml

@@ -1,0 +1,133 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Get a car insurance quote</h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("GetQuote", "Home", FormMethod.Post))
+            {
+                <div class="row no-gutters">
+                    <div class="form-group col-md-12">
+                        <input name="FirstName" type="text" class="form-control" placeholder="First Name" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="LastName" type="text" class="form-control" placeholder="Last Name" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="EmailAddress" type="email" class="form-control" placeholder="Email Address" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="DateOfBirth" type="date" class="form-control" placeholder="Date of Birth" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="CarYear" type="number" class="form-control" placeholder="Car Year" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="CarMake" type="text" class="form-control" placeholder="Car Make" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="CarModel" type="text" class="form-control" placeholder="Car Model" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="DUI" type="text" class="form-control" placeholder="DUI? (Yes or No)" /> 
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="SpeedingTickets" type="number" class="form-control" placeholder="How many Speeding Tickets do you have?" />
+                    </div>
+                    <div class="form-group col-md-12">
+                        <input name="CoverageType" type="text" class="form-control" placeholder="Full Coverage? (Yes or No)" />
+                    </div>
+                    <button type="submit" class="btn btn-block btn-primary">Submit</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<!--
+<select name="CarYear" class="form-group col-md-12" placeholder="Car Year">
+    <option value=""></option>
+    <option value="2020">2020</option>
+    <option value="2019">2019</option>
+    <option value="2018">2018</option>
+    <option value="2017">2017</option>
+    <option value="2016">2016</option>
+    <option value="2015">2015</option>
+    <option value="2014">2014</option>
+    <option value="2013">2013</option>
+    <option value="2012">2012</option>
+    <option value="2011">2011</option>
+    <option value="2010">2010</option>
+    <option value="2009">2009</option>
+    <option value="2008">2008</option>
+    <option value="2007">2007</option>
+    <option value="2006">2006</option>
+    <option value="2005">2005</option>
+    <option value="2004">2004</option>
+    <option value="2003">2003</option>
+    <option value="2002">2002</option>
+    <option value="2001">2001</option>
+    <option value="2000">2000</option>
+    <option value="1999">1999</option>
+    <option value="1998">1998</option>
+    <option value="1997">1997</option>
+    <option value="1996">1996</option>
+    <option value="1995">1995</option>
+    <option value="1994">1994</option>
+    <option value="1993">1993</option>
+    <option value="1992">1992</option>
+    <option value="1991">1991</option>
+    <option value="1990">1990</option>
+    <option value="1989">1989</option>
+    <option value="1988">1988</option>
+    <option value="1987">1987</option>
+    <option value="1986">1986</option>
+    <option value="1985">1985</option>
+    <option value="1984">1984</option>
+    <option value="1983">1983</option>
+    <option value="1982">1982</option>
+    <option value="1981">1981</option>
+    <option value="1900">Pre-1981</option>
+</select>
+
+<select name="CarMake" class="form-group col-md-12" placeholder="Car Make">
+    <option value=""></option>
+    <option value="ACURA">Acura</option>
+    <option value="AUDI">Audi</option>
+    <option value="BMW">BMW</option>
+    <option value="BUICK">Buick</option>
+    <option value="CAD">Cadillac</option>
+    <option value="CHEV">Chevrolet</option>
+    <option value="CHRY">Chrysler</option>
+    <option value="DODGE">Dodge</option>
+    <option value="FIAT">Fiat</option>
+    <option value="FORD">Ford</option>
+    <option value="GMC">GMC</option>
+    <option value="HONDA">Honda</option>
+    <option value="HYUNDAI">Hyundai</option>
+    <option value="INFI">Infiniti</option>
+    <option value="JAGUAR">Jaguar</option>
+    <option value="JEEP">Jeep</option>
+    <option value="KIA">Kia</option>
+    <option value="L ROVER">Land Rover</option>
+    <option value="LEXS">Lexus</option>
+    <option value="LINC">Lincoln</option>
+    <option value="LOTUS">Lotus</option>
+    <option value="MASS">Maserati</option>
+    <option value="MAZDA">Mazda</option>
+    <option value="M BENZ">Mercedes Benz</option>
+    <option value="MINI">Mini</option>
+    <option value="MTSBSHI">Mitsubishi</option>
+    <option value="NISSAN">Nissan</option>
+    <option value="PORSCHE">Porsche</option>
+    <option value="SCION">Scion</option>
+    <option value="SMART">Smart</option>
+    <option value="SUBARU">Subaru</option>
+    <option value="SUZUKI">Suzuki</option>
+    <option value="TESLA">Tesla</option>
+    <option value="TOYOTA">Toyota</option>
+    <option value="VPG">Vehicle Production Group</option>
+    <option value="VOLKS">Volkswagen</option>
+    <option value="VOLVO">Volvo</option>
+</select>
+    -->

@@ -1,0 +1,39 @@
+﻿@using Car_Insurance_Drill.ViewModels
+@model List<InsuranceVM>
+
+<div class="row no-gutters no-gutters m-3">
+    <div class=" card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Insurance Quotes</h5>
+        </div>
+        <div class=" card-body">
+            @foreach (var insuranceQuote in Model)
+            {
+                using (Html.BeginForm("CancelPolicy", "Admin", FormMethod.Post))
+                {
+                    <input type="hidden" name="Id" value="@insuranceQuote.Id" />
+                    <div class="row mb-3">
+                        <div class="col-12">
+                            @insuranceQuote.FirstName
+                        </div>
+                        <div class="col-12">
+                            @insuranceQuote.LastName
+                        </div>
+                        <div class="col-12">
+                            @insuranceQuote.EmailAddress
+                        </div>
+                        <div class="col-12">
+                            $@insuranceQuote.Total.00
+                        </div>
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-danger btn-block">
+                                Cancel Policy
+                            </button>
+                        </div>
+                    </div>
+                }
+            }
+
+        </div>
+    </div>
+</div>
