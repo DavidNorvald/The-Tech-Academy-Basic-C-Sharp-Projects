@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<script src="~/Scripts/jquery-3.3.1.js" type="text/javascript"></script>
+<script src="~/Scripts/jQuery.tmpl.js" type="text/html"></script>
+<script src="~/Scripts/knockout-3.5.0.js" type="text/javascript"></script>
+
+<h3>Simple test of displaying Names</h3>
+
+<p>First Name: <span data-bind="text: firstName"></span></p>
+<p>Last Name: <span data-bind="text: lastName"></span></p>
+
+<p>First Name: <input data-bind="value: firstName" /></p>
+<p>Last Name: <input data-bind="value: lastName" /></p>
+
+<p>Full Name: <span data-bind="text: fullName"></span></p>
+
+<button data-bind="click: capitalizeLastName">Capitalize last name</button>
+
+
+
+<h2>Friends</h2>
+<ul data-bind="template: {name: 'friendsTemplate', foreach:friends}"></ul>
+
+<script type="text/html" id="friendsTemplate">
+    <li data-bind="text: name"></li>
+</script>
+
+<button data-bind="click: addFriend">Add Friend</button>
+
+
+<script type="text/javascript">
+    function friend(name) {
+        return { name : ko.observable(name) };
+    }
+
+    var viewModel = {
+        firstName: ko.observable("Dave"),
+        lastName: ko.observable("Norvald"),
+        friends: ko.observableArray([new friend("Steve"), new friend("Annie"), new friend("John"), new friend("Derek")]),
+        addFriend: function () {
+            this.friends.push(new friend("Bert"));
+        }
+    };
+
+    // concatenates the firstName and lastName to make fullName, makes fullName dependent on both firstname and lastName and updates fullName if they change
+    viewModel.fullName = ko.dependentObservable(function () {
+        return this.firstName() + " " + this.lastName();
+    }, viewModel);
+
+    this.capitalizeLastName = function () {
+        var currentVal = this.lastName();        // sets a value for currentVal, in this case it is lastName
+        this.lastName(currentVal.toUpperCase()); // converts currentVal into uppercase, in this case, lastName is converted using toUppercase()
+    };
+
+
+    ko.applyBindings(viewModel);
+
+</script>

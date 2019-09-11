@@ -1,0 +1,115 @@
+﻿@{
+    ViewBag.Title = "Knockout";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <script src="~/Scripts/jquery-3.3.1.js" type="text/javascript"></script>
+    <script src="~/Scripts/jQuery.tmpl.js" type="text/html"></script>
+    <script src="~/Scripts/knockout-3.5.0.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+    <h2>Planets</h2>
+    <p>
+        <label>
+            <!-- checkbox for additional features, (houses radio's and buttons) hidden by default until checked -->
+            <input type='checkbox' data-bind='checked: displayAdvancedOptions' />
+            Display advanced options
+        </label>
+    </p>
+
+    <p data-bind='fadeVisible: displayAdvancedOptions'>
+        <!-- options inside Display Advanced Options -->
+        Show:
+        <label><input type='radio' name="type" value='all' data-bind='checked: typeToShow' />All</label>                                <!-- shows all -->
+        <label><input type='radio' name="type" value='rock' data-bind='checked: typeToShow' />Rocky planets</label>                     <!-- filtering for rocky types -->
+        <label><input type='radio' name="type" value='gasgiant' data-bind='checked: typeToShow' />Gas giants</label>                    <!-- filtering for gas types -->
+        <label><input type='radio' name="type" value='dwarf' data-bind='checked: typeToShow' />Dwarf planets</label>                    <!-- filtering for dwarf types -->
+        <label><input type='radio' name="type" value='celestialObject' data-bind='checked: typeToShow' />Celestial Objects</label>      <!-- filtering for celestial objects -->
+    </p>
+                                                                                        <!-- uses beforeRemove/afterAdd to allow for animations via JQuery -->
+    <div data-bind='template: { foreach: planetsToShow,
+                            beforeRemove: hidePlanetElement,                            
+                            afterAdd: showPlanetElement }'>                             
+        <div data-bind='attr: { "class": "planet " + type }, text: name'> </div>
+    </div>
+
+    <p data-bind='fadeVisible: displayAdvancedOptions'>
+        <button data-bind='click: addPlanet.bind($data, "rock")'>Add rocky planet</button>                  <!-- button for adding Rocky type planets -->
+        <button data-bind='click: addPlanet.bind($data, "gasgiant")'>Add gas giant</button>                 <!-- button for adding Gas type planets -->
+        <button data-bind='click: addPlanet.bind($data, "dwarf")'>Add dwarf planet</button>                 <!-- button for adding dwarf planets -->
+        <button data-bind='click: addPlanet.bind($data, "celestialObject")'>Add celestial object</button>   <!-- button for adding celestial objects -->
+    </p>
+
+
+    <script>
+    // pre-populating list of planets/objects
+        var PlanetsModel = function () {
+            this.planets = ko.observableArray([
+                { name: "Sun", type: "celestialObject" },
+                { name: "Mercury", type: "rock" },
+                { name: "Venus", type: "rock" },
+                { name: "Earth", type: "rock" },
+                { name: "Mars", type: "rock" },
+                { name: "Ceres", type: "dwarf" },
+                { name: "Jupiter", type: "gasgiant" },
+                { name: "Saturn", type: "gasgiant" },
+                { name: "Uranus", type: "gasgiant" },
+                { name: "Neptune", type: "gasgiant" },
+                { name: "Pluto", type: "dwarf" },
+                { name: "Haumea", type: "dwarf" },
+                { name: "Makemake", type: "dwarf" },
+                { name: "Eris", type: "dwarf" },
+                { name: "Kuiper Belt", type: "celestialObject" },
+                { name: "Oort Cloud", type: "celestialObject" },
+
+
+            ]);
+            // calls the "Advanced Options" checkbox (houses the radio's and buttons) defaults to showing all plaents/objects when selected
+            this.typeToShow = ko.observable("all");
+            this.displayAdvancedOptions = ko.observable(false);         // sets the displayAdvancedOptions to not initialize right away
+
+            this.addPlanet = function (type) {       // able to add "New Planet" to the list if desired via .push
+                this.planets.push({
+                    name: "New planet",
+                    type: type
+                });
+            };
+
+            this.planetsToShow = ko.pureComputed(function () {
+                // Represents a filtered list of planets
+                // starts by showing all planets by default, once a radio is selected, it will only show those matching "typeToShow" above in the HTML radio
+                var desiredType = this.typeToShow();
+                if (desiredType == "all") return this.planets();
+                return ko.utils.arrayFilter(this.planets(), function (planet) { return planet.type == desiredType; });
+            }, this);
+
+            // Animation for the planets list when selecting the corresponding radio
+            this.showPlanetElement = function (elem) { if (elem.nodeType === 1) $(elem).hide().slideDown() }                             // shows planets in list via JQuery's slideDown() method
+            this.hidePlanetElement = function (elem) { if (elem.nodeType === 1) $(elem).slideUp(function () { $(elem).remove(); }) }      // hides planets in list via JQuery's slideUp() method
+        };
+
+        ko.bindingHandlers.fadeVisible = {              // impliments a custom binding that works with JQuery
+            init: function (element, valueAccessor) {
+                var value = valueAccessor();
+                $(element).toggle(ko.unwrap(value));
+            },
+            update: function (element, valueAccessor) {
+                // uses JQuery's fadeIn() and fadeOut() method for transition of selection type via radio's
+                var value = valueAccessor();
+                ko.unwrap(value) ? $(element).fadeIn() : $(element).fadeOut();
+            }
+        };
+
+        ko.applyBindings(new PlanetsModel());
+
+    </script>
+</body>
+</html>
+
+
+
